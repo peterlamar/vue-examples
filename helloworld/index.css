@@ -1,0 +1,4 @@
+html, body {
+    margin: 5px;
+    padding: 0;
+}
