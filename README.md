@@ -3,4 +3,4 @@
 Collection of Vue.js reference examples for teaching and learning Vue
 
 1. [Hello Vue](https://github.com/peterlamar/vue-workshop/tree/master/helloworld)
-1. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
+2. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
