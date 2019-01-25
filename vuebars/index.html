@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src=/home/pl/go/src/github.com/peterlamar/vue-workshop/vuebars/node_modules/vuebars/dist/vue-bars.js></script>
+    </head>
+    <body>
+        <div id="app">
+            <bars
+              :data="[1, 2, 5, 9, 5, 10, 3, 5, 2, 5, 1, 8, 2, 9, 0]"
+              :gradient="['#6fa8dc', '#42b983']">
+            </bars>
+        </div>
+        <script type="text/javascript">
+            new Vue({ el: '#app' })
+        </script>
+    </body>
+</html>
