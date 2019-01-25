@@ -6,3 +6,4 @@ Collection of Vue.js reference examples for teaching and learning Vue
 2. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
 3. [Instance](https://github.com/peterlamar/vue-workshop/tree/master/instance)
 4. [Vbind](https://github.com/peterlamar/vue-workshop/tree/master/vbind)
+4. [Vuechart](https://github.com/peterlamar/vue-workshop/tree/master/vuechart)
