@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src=/home/pl/go/src/github.com/peterlamar/vue-workshop/vuechart/node_modules/vuetrend/dist/vue-trend.js></script>
+    </head>
+    <body>
+        <div id="app">
+            <trend
+              :data="[0, 2, 5, 9, 5, 10, 3, 5, 0, 0, 1, 8, 2, 9, 5]"
+              :gradient="['#6fa8dc', '#42b983', '#2c3e50']"
+              auto-draw
+              smooth>
+            </trend>
+        </div>
+        <script type="text/javascript">
+            new Vue({ el: '#app' })
+        </script>
+    </body>
+</html>
