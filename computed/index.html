@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+
+<body>
+    <div id="example">
+        <p>Original message: "{{ message }}"</p>
+        <p>Computed reversed message: "{{ reversedMessage }}"</p>
+        <p>Computed now: "{{ now }}"</p>
+        <p>Reversed message: "{{ reverseMessage() }}"</p>
+
+    </div>
+    <script>
+        var vm = new Vue({
+            el: '#example',
+            data: {
+                message: 'Hello'
+            },
+            computed: {
+                // a computed getter
+                reversedMessage: function() {
+                    // `this` points to the vm instance
+                    return this.message.split('').reverse().join('')
+                },
+                now: function () {
+                  return Date.now()
+                }
+            },
+            methods: {
+                reverseMessage: function() {
+                    return this.message.split('').reverse().join('')
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>
