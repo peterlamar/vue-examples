@@ -16,3 +16,4 @@ examples can be run by opening the index.html file within your browser.
 11. [Vmodel](https://github.com/peterlamar/vue-workshop/tree/master/vmodel)
 12. [Component](https://github.com/peterlamar/vue-workshop/tree/master/component)
 13. [ComponentMessage](https://github.com/peterlamar/vue-workshop/tree/master/componentmessage)
+14. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/componentdynamic)
