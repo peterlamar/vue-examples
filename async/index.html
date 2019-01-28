@@ -1,0 +1,37 @@
+<html>
+
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+
+<div id="app">
+  <button @click="show ^= 1">Toggle</button>
+  <async-example v-if="show"/>
+</div>
+
+<body>
+  <script>
+      console.clear()
+      console.log('Yes! We are using Vue version', Vue.version)
+
+      Vue.component('async-example', function (resolve, reject) {
+        console.log('resolving component...')
+        setTimeout(function () {
+          resolve({
+            template: '<div>I am async!</div>'
+          })
+        }, 1000)
+      })
+
+      // New VueJS instance
+      var app = new Vue({
+      	// CSS selector of the root DOM element
+        el: '#app',
+        // Some data
+        data: () => ({
+          show: false,
+        }),
+      })
+  </script>
+</body>
+</html>

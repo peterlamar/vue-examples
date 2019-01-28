@@ -17,3 +17,9 @@ examples can be run by opening the index.html file within your browser.
 12. [Component](https://github.com/peterlamar/vue-workshop/tree/master/component)
 13. [ComponentMessage](https://github.com/peterlamar/vue-workshop/tree/master/componentmessage)
 14. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/componentdynamic)
+15. [Async](https://github.com/peterlamar/vue-workshop/tree/master/async)
+
+
+## References
+
+1. [Mozilla DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
