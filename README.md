@@ -19,7 +19,8 @@ examples can be run by opening the index.html file within your browser.
 14. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/componentdynamic)
 15. [Async](https://github.com/peterlamar/vue-workshop/tree/master/async)
 
-
 ## References
 
 1. [Mozilla DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+2. [Vue Tutorial](https://vuejs.org/v2/guide/installation.html)
+3. [Babel Javascript 2015](https://babeljs.io/docs/en/learn)
