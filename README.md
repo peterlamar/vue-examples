@@ -1,7 +1,7 @@
 # java-workshop
 
 Collection of Vue.js reference examples for teaching and learning Vue. These
-examples can be run by opening the index.html file within your browser.
+examples can be run by opening the index.html file within your browser. These examples assume NO knowledge of front end by the reader. I myself had more experience as a backend engineer and found most front end examples required too much familiarity of HTML, Javascript and the front end stack. I journaled these examples to help myself and others if its helpful. 
 
 1. [Hello World](https://github.com/peterlamar/vue-workshop/tree/master/helloworld)
 2. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
