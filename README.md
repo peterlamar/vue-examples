@@ -1,7 +1,7 @@
 # vue-examples
 
 Collection of Vue.js reference examples for teaching and learning Vue. These
-examples can be run by opening the index.html file within your browser. These examples assume NO experience of front end by the reader. I myself had more experience as a backend engineer and found most front end examples required too much familiarity of HTML, Javascript and the front end stack. I journaled these examples to help myself and others if its helpful. 
+examples can be run by opening the index.html file within your browser. These examples assume NO experience of front end by the reader. I myself had more experience as a backend engineer and found most front end examples required too much familiarity of HTML, Javascript and the front end stack. I journaled these examples to help myself and others if its helpful.
 
 1. [Hello World](https://github.com/peterlamar/vue-workshop/tree/master/helloworld)
 2. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
@@ -20,6 +20,7 @@ examples can be run by opening the index.html file within your browser. These ex
 15. [Async](https://github.com/peterlamar/vue-workshop/tree/master/async)
 16. [ConfigTest](https://github.com/peterlamar/vue-workshop/tree/master/configtest)
 17. [AGGrid](https://github.com/peterlamar/vue-workshop/tree/master/aggrid)
+18. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/hellonuxt)
 
 ## References
 
