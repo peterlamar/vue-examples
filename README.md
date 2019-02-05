@@ -2,7 +2,7 @@
 
 Collection of Vue.js reference examples for teaching and learning Vue. These examples assume NO experience of front end by the reader. I myself had more experience as a backend engineer and found most front end examples required too much familiarity of HTML, Javascript and the front end stack. I journaled these examples to help myself and others if its helpful.
 
-The early examples 1-15, are intentionally simple while the remainder start using VUE cli and NUXT which are more sophisticated patterns that it is helpful to build up to. 
+The early examples 1-15, are intentionally simple while the remainder start using VUE cli and NUXT which are more sophisticated patterns (they generate complex starting projects) that it is helpful to build up to. 
 
 ## Index.html 
 
