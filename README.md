@@ -6,7 +6,7 @@ The early examples 1-15, are intentionally simple while the remainder start usin
 
 ## Index.html 
 
-These examples can be accessed by opening the index.html file within your browser. The related javascript and css is referenced by this file when appropriate. This is a good way to test javascript and Vue snippets found on the web.
+These examples can be accessed by opening the index.html file within your browser. The related javascript and css files are referenced by this file when appropriate. This is a good way to test javascript and Vue snippets found on the web.
 
 1. [Hello World](https://github.com/peterlamar/vue-workshop/tree/master/helloworld)
 2. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
