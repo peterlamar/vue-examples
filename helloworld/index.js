@@ -1,3 +1,4 @@
+// Declarative Rendering using Vue template syntax
 var app = new Vue({
     el: '#app',
     data: {
@@ -5,6 +6,8 @@ var app = new Vue({
     }
 });
 
+// Bind Elements with v-bind Directive keeps html title
+// attribute up to date with message property
 var app2 = new Vue({
   el: '#app-2',
   data: {
@@ -12,6 +15,7 @@ var app2 = new Vue({
   }
 })
 
+// v-if directive toggle demonstrating if condition
 var app3 = new Vue({
   el: '#app-3',
   data: {
@@ -19,6 +23,7 @@ var app3 = new Vue({
   }
 })
 
+// v-for directive demonstrating loops
 var app4 = new Vue({
   el: '#app-4',
   data: {
@@ -30,6 +35,7 @@ var app4 = new Vue({
   }
 })
 
+// v-on directive demonstrating callback to method
 var app5 = new Vue({
   el: '#app-5',
   data: {
@@ -42,6 +48,8 @@ var app5 = new Vue({
   }
 })
 
+
+// v-model directive demonstrates two way binding
 var app6 = new Vue({
   el: '#app-6',
   data: {
@@ -49,7 +57,8 @@ var app6 = new Vue({
   }
 })
 
-
+// Component example. These are somewhat like subclasses
+// that can be defined and allow for decoupled functionality
 Vue.component('todo-item', {
   props: ['todo'],
   template: '<li>{{ todo.text }}</li>'
