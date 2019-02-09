@@ -1,6 +1,6 @@
-# Vue Instance
+# Vue Chart
 
-This demonstrates creating a chart using the Vue Trend library.
+This demonstrates creating a line chart using the Vue Trend library.
 
 ## Demo
 
