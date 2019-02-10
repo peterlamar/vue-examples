@@ -44,7 +44,7 @@ var vm = new Vue({
 
 [https://peterlamar.github.io/vue-examples/computed/](https://peterlamar.github.io/vue-examples/computed/)
 
-[code sandbox](https://codesandbox.io/s/nywkpy4q0) 
+[code sandbox](https://codesandbox.io/s/zk8jz7w84l) 
 
 ### Locally
 
