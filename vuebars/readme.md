@@ -1,23 +1,36 @@
-# Vue Bars
+# [Vue Bars](https://github.com/DeviaVir/vue-bar#readme)
 
 This demonstrates creating a bar chart using the Vue Trend library.
 
+## Usage
+
+```
+npm i vuebars
+```
+
+```javascript
+// main.js
+import Vue from 'vue';
+import VueBars from 'vuebars';
+
+Vue(VueBars);
+```
+
+```html
+// In component
+<bars
+  :data="[1, 2, 5, 9, 5, 10, 3, 5, 8, 12, 1, 8, 2, 9, 10, 2, 9, 4, 5, 6, 7, 3, 2, 3, 5]"
+  :gradient="['#ffbe88', '#ff93df']"
+  :barWidth="5"
+  :growDuration="1"
+></bars>
+```
+
 ## Demo
 
-Open [index.html](index.html) with your Internet browser or go to
-
-[code sanbox](https://codesandbox.io/s/zk4or034lx) to view functionality.
-
-# Instructions
-
-Open file index.html in a web browser
+[https://codesandbox.io/s/74prz8jp7j](https://codesandbox.io/s/74prz8jp7j)
+[https://peterlamar.github.io/vue-examples/vuebars/](https://peterlamar.github.io/vue-examples/vuebars/)
 
 ## Reference
 
 [Vue Bars](https://github.com/DeviaVir/vue-bar#readme)
-
-Originally I installed this locally and referenced it locally from [NPM](https://www.npmjs.com/package/vuebars)
-. The previous script source (top of index.html) for this was
-```
-<script src=./node_modules/vuebars/dist/vue-bars.js></script>
-```
