@@ -26,7 +26,7 @@ new Vue({ el: "#app" });
 
 [code sandbox](https://codesandbox.io/s/nywkpy4q0) 
 
-## Demo locally
+### Locally
 
 Open file index.html in a web browser
 
