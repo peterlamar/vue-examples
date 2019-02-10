@@ -1,23 +1,35 @@
-# Vue Chart
+# [Vue Chart](https://cinwell.com/vue-trend/)
 
 This demonstrates creating a line chart using the Vue Trend library.
 
+## Usage
+
+```javascript
+new Vue({ el: "#app" });
+```
+
+```html
+<div id="app">
+    <trend
+    :data="[0, 2, 5, 9, 5, 10, 3, 5, 0, 0, 1, 8, 2, 9, 5]"
+    :gradient="['#6fa8dc', '#42b983', '#2c3e50']"
+    auto-draw
+    smooth
+    >
+    </trend>
+</div>
+```
+
 ## Demo
 
-Open [index.html](index.html) with your Internet browser or go to
+[https://peterlamar.github.io/vue-examples/vuechart/](https://peterlamar.github.io/vue-examples/vuechart/)
 
-[code sanbox](https://codesandbox.io/s/nywkpy4q0) to view functionality.
+[code sandbox](https://codesandbox.io/s/nywkpy4q0) 
 
-# Instructions
+## Demo locally
 
 Open file index.html in a web browser
 
 ## Reference
 
 [Vue Trend](https://cinwell.com/vue-trend/)
-
-Originally I installed this locally and referenced it locally from [NPM](https://www.npmjs.com/package/vuetrend)
-. The previous script source (top of index.html) for this was
-```
-<script src=./node_modules/vuetrend/dist/vue-trend.js></script>
-```
