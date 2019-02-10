@@ -29,6 +29,7 @@ Vue(VueBars);
 ## Demo
 
 [https://codesandbox.io/s/74prz8jp7j](https://codesandbox.io/s/74prz8jp7j)
+
 [https://peterlamar.github.io/vue-examples/vuebars/](https://peterlamar.github.io/vue-examples/vuebars/)
 
 ## Reference
