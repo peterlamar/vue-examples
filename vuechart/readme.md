@@ -9,6 +9,10 @@ new Vue({ el: "#app" });
 ```
 
 ```html
+// Includes
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue-trend-component@0.1.0/dist/vue-trend-component.common.min.js"></script>
+
 <div id="app">
     <trend
     :data="[0, 2, 5, 9, 5, 10, 3, 5, 0, 0, 1, 8, 2, 9, 5]"
