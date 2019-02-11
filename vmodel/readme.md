@@ -1,10 +1,35 @@
-<html>
+# Vue Model
 
-<head>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-</head>
+This demonstrates creating v-model directive and its capabilities 
 
-<body>
+## Usage
+
+```javascript
+new Vue({
+    el: '#vue-app',
+    data: {
+    name: 'a',
+    age: ''
+    }
+})
+
+new Vue({
+    el: '#vue-app2',
+    data: {
+    message: 'm',
+    checked: ''
+    }
+})
+
+new Vue({
+    el: '#example-3',
+    data: {
+    checkedNames: []
+    }
+})
+```
+
+```html
   <div id="vue-app">
     <h1>Keyboard Events</h1>
     <label>Name:</label>
@@ -36,32 +61,14 @@
     <br>
     <span>Checked names: {{ checkedNames }}</span>
   </div>
+```
 
-  <script>
-    new Vue({
-      el: '#vue-app',
-      data: {
-        name: 'a',
-        age: ''
-      }
-    })
+## Demo
 
-    new Vue({
-      el: '#vue-app2',
-      data: {
-        message: 'm',
-        checked: ''
-      }
-    })
+[https://peterlamar.github.io/vue-examples/vmodel/](https://peterlamar.github.io/vue-examples/vmodel/)
 
-    new Vue({
-      el: '#example-3',
-      data: {
-        checkedNames: []
-      }
-    })
-  </script>
+[code sandbox](https://codesandbox.io/s/88lv4xk3l2)
 
-</body>
+### Locally
 
-</html>
+Open file index.html in a web browser
