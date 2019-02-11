@@ -4,25 +4,30 @@ Collection of Vue.js reference examples for teaching and learning Vue. These exa
 
 The early examples 1-15, are intentionally simple while the remainder start using VUE cli and NUXT which are more sophisticated patterns (they generate complex starting projects) that it is helpful to build up to. 
 
-## Index.html 
+## Introduction
 
 These examples can be accessed by opening the index.html file within your browser. The related javascript and css files are referenced by this file when appropriate. This is a good way to test javascript and Vue snippets found on the web.
 
 1. [Hello World](https://github.com/peterlamar/vue-workshop/tree/master/helloworld)
-2. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
-3. [Instance](https://github.com/peterlamar/vue-workshop/tree/master/instance)
-4. [Vbind](https://github.com/peterlamar/vue-workshop/tree/master/vbind)
-5. [Vuechart](https://github.com/peterlamar/vue-workshop/tree/master/vuechart)
-6. [Vuebars](https://github.com/peterlamar/vue-workshop/tree/master/vuebars)
-7. [Computed](https://github.com/peterlamar/vue-workshop/tree/master/computed)
-8. [Watcher](https://github.com/peterlamar/vue-workshop/tree/master/watcher)
-9. [Class](https://github.com/peterlamar/vue-workshop/tree/master/class)
-10. [Events](https://github.com/peterlamar/vue-workshop/tree/master/events)
-11. [Vmodel](https://github.com/peterlamar/vue-workshop/tree/master/vmodel)
-12. [Component](https://github.com/peterlamar/vue-workshop/tree/master/component)
-13. [ComponentMessage](https://github.com/peterlamar/vue-workshop/tree/master/componentmessage)
-14. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/componentdynamic)
-15. [Async](https://github.com/peterlamar/vue-workshop/tree/master/async)
+2. [Instance](https://github.com/peterlamar/vue-workshop/tree/master/instance)
+3. [Vbind](https://github.com/peterlamar/vue-workshop/tree/master/vbind)
+4. [Computed](https://github.com/peterlamar/vue-workshop/tree/master/computed)
+5. [Watcher](https://github.com/peterlamar/vue-workshop/tree/master/watcher)
+6. [Class](https://github.com/peterlamar/vue-workshop/tree/master/class)
+7. [Events](https://github.com/peterlamar/vue-workshop/tree/master/events)
+8. [Vmodel](https://github.com/peterlamar/vue-workshop/tree/master/vmodel)
+9. [Component](https://github.com/peterlamar/vue-workshop/tree/master/component)
+10. [ComponentMessage](https://github.com/peterlamar/vue-workshop/tree/master/componentmessage)
+11. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/componentdynamic)
+12. [Async](https://github.com/peterlamar/vue-workshop/tree/master/async)
+
+## Charts and Graphs
+
+These are interesting if you wish to jumpstart into data visualization. 
+
+1. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
+2. [Vuechart](https://github.com/peterlamar/vue-workshop/tree/master/vuechart)
+3. [Vuebars](https://github.com/peterlamar/vue-workshop/tree/master/vuebars)
 
 ## Vue CLI
 
