@@ -28,8 +28,6 @@ new Contour({
 
 ## Demo
 
-[https://peterlamar.github.io/vue-examples/chart/](https://peterlamar.github.io/vue-examples/chart/)
-
 [code pen](https://codepen.io/peterlamar/pen/vbdoJG) to view functionality.
 
 ### Locally
