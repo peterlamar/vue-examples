@@ -33,7 +33,7 @@ This demonstrates dynamic component functionality. It is intentionally simple to
 ```html
 // Includes
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vue-trend-component@0.1.0/dist/vue-trend-component.common.min.js"></script>
+
 
 <div id="dynamic-component-demo" class="demo">
   <button
