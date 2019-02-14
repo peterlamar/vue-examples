@@ -8,7 +8,9 @@ proxied by vue npm server for development.
 
 ## server
 
+```
 go run main.go
+```
 
 ## client
 
@@ -37,7 +39,9 @@ module.exports = {
 ```
 
 When the app starts, it will send a request to the server. The 
-server will then print the request locally
+server will then print the request locally. This is indicating a 
+successful proxied request occurred and no cross site scripting
+error was spawned by the browser.
 
 ### Project setup
 ```
