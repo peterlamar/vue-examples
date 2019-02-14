@@ -33,7 +33,7 @@ These are interesting if you wish to jumpstart into data visualization.
 
 These examples start with the [VUE cli](https://cli.vuejs.org/) and represent the beginnings of the single page app pattern. This pattern differs from the index.html file in that javascript files are separated out into .vue files which is easier to maintain in larger projects. 
 
-16. [ConfigTest](https://github.com/peterlamar/vue-workshop/tree/master/configtest)
+16. [LocalProxy](https://github.com/peterlamar/vue-workshop/tree/master/localproxy)
 17. [AGGrid](https://github.com/peterlamar/vue-workshop/tree/master/aggrid)
 
 ## Nuxt
