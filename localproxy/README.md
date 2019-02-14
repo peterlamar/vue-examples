@@ -6,7 +6,19 @@ routed to localhost:9000. This is useful when you have an external backend
 scripting errors. The external backend would be running at port 9000 and is
 proxied by vue npm server for development. 
 
-## Usage 
+## server
+
+go run main.go
+
+## client
+
+Change into client dir
+
+```
+cd client 
+```
+
+### Usage 
 
 This code was added to vue.config.js to redirect requests 
 
@@ -24,30 +36,19 @@ module.exports = {
 }
 ```
 
-## Project setup
+When the app starts, it will send a request to the server. The 
+server will then print the request locally
+
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Reference
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
