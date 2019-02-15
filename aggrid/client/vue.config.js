@@ -1,8 +1,8 @@
 module.exports = {
   devServer: {
     proxy: {
-      '/reports/*': {
-        target: 'http://localhost:9090',
+      '/getreport*': {
+        target: 'http://localhost:9000',
         ws: true,
         changeOrigin: true
       }
