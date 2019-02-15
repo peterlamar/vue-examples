@@ -8,6 +8,8 @@ proxied by vue npm server for development.
 
 ## server
 
+[install go](https://golang.org/) if needed
+
 ```
 go run main.go
 ```
