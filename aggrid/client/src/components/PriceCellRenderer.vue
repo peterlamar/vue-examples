@@ -6,7 +6,10 @@
 
 <script>
 export default {
-  name: 'PriceCellRenderer'
+  name: 'PriceCellRenderer',
+    beforeMount () {
+    }
+
 }
 </script>
 

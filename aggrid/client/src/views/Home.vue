@@ -8,7 +8,6 @@
 <template>
 <div class="home">
   <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
-  <specs />
 
   <div class="data-query">
 
@@ -39,7 +38,7 @@ export default {
       rowData: null,
       components: {},
       request: {},
-      endpoint: '/reports/onereport'
+      endpoint: '/getreport'
     }
   },
   components: {
@@ -48,13 +47,14 @@ export default {
   beforeMount () {
     this.columnDefs = [{
       headerName: 'Name',
-      field: 'name',
+      field: 'Name',
       sortable: true,
       filter: true,
       resizable: true
-    }, {
+    }
+    ,{
       headerName: 'Continent',
-      field: 'continent',
+      field: 'Continent',
       sortable: true,
       filter: true,
       resizable: true
@@ -74,6 +74,7 @@ export default {
       .post(this.endpoint, this.request)
       .then(response => {
         this.rowData = response.data
+        console.log(response.data)
       })
       .catch(function (error) {
         console.log(error)
