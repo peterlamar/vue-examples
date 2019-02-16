@@ -44,7 +44,7 @@ The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli 
 
 # Contributing
 
-This any of this is helpful to you or you wish to improve upon these examples, pull requests are absolutely welcome!
+If any of this is helpful to you or you wish to improve upon these examples, pull requests are absolutely welcome!
 
 ## References
 
