@@ -12,8 +12,12 @@ type Countries struct {
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
-	countries := []Countries{{Name: "USA", Continent: "America"},
-		{Name: "USA2", Continent: "America2"}}
+	countries := []Countries{
+		{Name: "USA", Continent: "North America"},
+		{Name: "Canada", Continent: "North America"},
+		{Name: "England", Continent: "Europe"},
+		{Name: "France", Continent: "Europe"},
+	}
 
 	fmt.Print("Received request ", r)
 
