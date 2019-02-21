@@ -25,9 +25,9 @@ These examples can be accessed by opening the index.html file within your browse
 
 These are interesting if you wish to jumpstart into data visualization. 
 
-1. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
-2. [Vuechart](https://github.com/peterlamar/vue-workshop/tree/master/vuechart)
-3. [Vuebars](https://github.com/peterlamar/vue-workshop/tree/master/vuebars)
+13. [Chart](https://github.com/peterlamar/vue-workshop/tree/master/chart)
+14. [Vuechart](https://github.com/peterlamar/vue-workshop/tree/master/vuechart)
+15. [Vuebars](https://github.com/peterlamar/vue-workshop/tree/master/vuebars)
 
 ## Vue CLI
 
@@ -35,12 +35,13 @@ These examples start with the [VUE cli](https://cli.vuejs.org/) and represent th
 
 16. [LocalProxy](https://github.com/peterlamar/vue-workshop/tree/master/localproxy)
 17. [AGGrid](https://github.com/peterlamar/vue-workshop/tree/master/aggrid)
+18. [tailwind](https://github.com/peterlamar/vue-workshop/tree/master/tailwind)
 
 ## Nuxt
 
 The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli by providing some common settings as defaults in the generated project.
 
-18. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/hellonuxt)
+19. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/hellonuxt)
 
 # Contributing
 
