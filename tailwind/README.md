@@ -66,3 +66,5 @@ This snippet creates a floating business card in the Vue cli hello world.
 ### Reference
 
 [Vue tailwind article](https://medium.com/backticks-tildes/how-to-configure-your-vue-js-app-to-use-tailwind-css-a6f95d06e1c7)
+
+[tailwind docs](https://tailwindcss.com/docs/what-is-tailwind/)
