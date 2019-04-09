@@ -49,7 +49,7 @@
             <todo-item
               v-for="item in groceryList"
               v-bind:todo="item"
-              
+              v-bind:key="id"
             ></todo-item>
           </ol>
         </div>
