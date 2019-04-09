@@ -43,7 +43,7 @@ The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli 
 
 19. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/hellonuxt)
 
-# Contributing
+## Contributing
 
 If any of this is helpful to you or you wish to improve upon these examples, pull requests are absolutely welcome!
 
