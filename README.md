@@ -37,6 +37,7 @@ These examples start with the [VUE cli](https://cli.vuejs.org/) and represent th
 17. [AGGrid](https://github.com/peterlamar/vue-workshop/tree/master/17-aggrid)
 18. [tailwind](https://github.com/peterlamar/vue-workshop/tree/master/18-tailwind)
 19. [svgdots](https://github.com/peterlamar/vue-workshop/tree/master/19-svgdots)
+20. [d3connectdots](https://github.com/peterlamar/vue-workshop/tree/master/20-d3connectdots)
 
 ## Nuxt
 
