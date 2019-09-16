@@ -36,12 +36,13 @@ These examples start with the [VUE cli](https://cli.vuejs.org/) and represent th
 16. [LocalProxy](https://github.com/peterlamar/vue-workshop/tree/master/16-localproxy)
 17. [AGGrid](https://github.com/peterlamar/vue-workshop/tree/master/17-aggrid)
 18. [tailwind](https://github.com/peterlamar/vue-workshop/tree/master/18-tailwind)
+19. [svgdots](https://github.com/peterlamar/vue-workshop/tree/master/19-svgdots)
 
 ## Nuxt
 
 The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli by providing some common settings as defaults in the generated project.
 
-19. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/19-hellonuxt)
+20. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/20-hellonuxt)
 
 ## Contributing
 
