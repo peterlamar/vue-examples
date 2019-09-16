@@ -1,5 +1,7 @@
 # 19-svgdots
 
+This is a quick recreation to draw several dots on the screen. This is adapted from a d3-Vue [workshop](https://github.com/thegoodideaco/vue-d3-workshop)
+
 ## Project setup
 ```
 npm install
