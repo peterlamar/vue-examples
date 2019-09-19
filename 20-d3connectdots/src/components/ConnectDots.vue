@@ -28,16 +28,27 @@ export default {
       console.log('this is the item!', item)
     }
   },
+  // computed is cached and re-evaluated based on reactive dependencies
   computed: {
     lineGenerator() {
       return d3
         .line()
-        .x(v => v[0])
-        .y(v => v[1])
+        // These vars can be any letter as long as they are consistent (q, m, etc)
+        // Defined at https://github.com/d3/d3-shape#lines
+        .x(q => q[0])
+        .y(q => q[1])
     },
     d() {
       return this.lineGenerator(this.dataset)
     }
   }
 }
+/* Arrow Functions: 
+parameters => expression
+// is equivalent to:
+function (parameters){
+  return expression;
+}
+https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc
+*/
 </script>

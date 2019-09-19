@@ -1,5 +1,7 @@
 <template>
   <svg>
+    <!-- v-for directive renders a list based on an array. 
+          in this case, an array of pairs. -->
     <circle r="20"
             v-for="(item, index) in dataset"
             :cx="item[0]"
