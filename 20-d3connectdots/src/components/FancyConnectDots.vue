@@ -22,7 +22,7 @@ export default {
   data() {
     return {
       dataset,
-      curve: 'curveMonotoneY'
+      curve: 'curveStepAfter'
     }
   },
   methods: {
