@@ -44,6 +44,7 @@ These examples start with the [VUE cli](https://cli.vuejs.org/) and represent th
 The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli by providing some common settings as defaults in the generated project.
 
 21. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/21-hellonuxt)
+22. [todo-app](https://github.com/peterlamar/vue-workshop/tree/master/22-todo-app)
 
 ## Contributing
 
