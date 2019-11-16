@@ -9,17 +9,17 @@ The early examples 1-15, are intentionally simple while the remainder start usin
 These examples can be accessed by opening the index.html file within your browser. The related javascript and css files are referenced by this file when appropriate. This is a good way to test javascript and Vue snippets found on the web.
 
 1. [Hello World](https://github.com/peterlamar/vue-workshop/tree/master/1-helloworld)
-2. [Instance](https://github.com/peterlamar/vue-workshop/tree/master/2-instance)
-3. [Vbind](https://github.com/peterlamar/vue-workshop/tree/master/3-vbind)
-4. [Computed](https://github.com/peterlamar/vue-workshop/tree/master/4-computed)
-5. [Watcher](https://github.com/peterlamar/vue-workshop/tree/master/5-watcher)
-6. [Class](https://github.com/peterlamar/vue-workshop/tree/master/6-class)
-7. [Events](https://github.com/peterlamar/vue-workshop/tree/master/7-events)
-8. [Vmodel](https://github.com/peterlamar/vue-workshop/tree/master/8-vmodel)
-9. [Component](https://github.com/peterlamar/vue-workshop/tree/master/9-component)
-10. [ComponentMessage](https://github.com/peterlamar/vue-workshop/tree/master/10-componentmessage)
-11. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/11-componentdynamic)
-12. [Async](https://github.com/peterlamar/vue-workshop/tree/master/12-async)
+1. [Instance](https://github.com/peterlamar/vue-workshop/tree/master/2-instance)
+1. [Vbind](https://github.com/peterlamar/vue-workshop/tree/master/3-vbind)
+1. [Computed](https://github.com/peterlamar/vue-workshop/tree/master/4-computed)
+1. [Watcher](https://github.com/peterlamar/vue-workshop/tree/master/5-watcher)
+1. [Class](https://github.com/peterlamar/vue-workshop/tree/master/6-class)
+1. [Events](https://github.com/peterlamar/vue-workshop/tree/master/7-events)
+1. [Vmodel](https://github.com/peterlamar/vue-workshop/tree/master/8-vmodel)
+1. [Component](https://github.com/peterlamar/vue-workshop/tree/master/9-component)
+1. [ComponentMessage](https://github.com/peterlamar/vue-workshop/tree/master/10-componentmessage)
+1. [ComponentDynamic](https://github.com/peterlamar/vue-workshop/tree/master/11-componentdynamic)
+1. [Async](https://github.com/peterlamar/vue-workshop/tree/master/12-async)
 
 ## Charts and Graphs
 
