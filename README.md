@@ -38,13 +38,14 @@ These examples start with the [VUE cli](https://cli.vuejs.org/) and represent th
 18. [tailwind](https://github.com/peterlamar/vue-workshop/tree/master/18-tailwind)
 19. [svgdots](https://github.com/peterlamar/vue-workshop/tree/master/19-svgdots)
 20. [d3connectdots](https://github.com/peterlamar/vue-workshop/tree/master/20-d3connectdots)
+21. [firebasechat](https://github.com/peterlamar/vue-workshop/tree/master/21-firebase-chat)
 
 ## Nuxt
 
 The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli by providing some common settings as defaults in the generated project.
 
-21. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/21-hellonuxt)
-22. [todo-app](https://github.com/peterlamar/vue-workshop/tree/master/22-todo-app)
+22. [HelloNuxt](https://github.com/peterlamar/vue-workshop/tree/master/22-hellonuxt)
+23. [todo-app](https://github.com/peterlamar/vue-workshop/tree/master/23-todo-app)
 
 ## Contributing
 
